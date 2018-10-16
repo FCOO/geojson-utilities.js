@@ -7,7 +7,7 @@
 	https://github.com/FCOO
 
 ****************************************************************************/
-(function ($, window/*, document, undefined*/) {
+(function (window/*, document, undefined*/) {
     "use strict";
 
     //Create namespace
@@ -145,4 +145,4 @@
 
 
 
-}(jQuery, this, document));
+}(this, document));
